@@ -1,0 +1,21 @@
+global-styling:
+  version: VERSION
+  css:
+    theme:
+      css/animate.css: {}
+      css/bootstrap.css: {}
+      css/font-awesome.css: {}
+      css/fonts.css: {}
+      css/magnific-popup.css: {}
+      css/owl.carousel.css: {}
+      css/own.theme.default.css: {}
+      css/style.css: {}
+  js:
+    js/bootstrap.js: {}
+    js/custom.js: {}
+    js/jquery.js: {}
+    js/jquery.appear.js: {}
+    js/jquery.countTo.js: {}
+    js/jquery.magnific-popup.js: {}
+    js/owl.carousel.js: {}
+    
